@@ -2,7 +2,7 @@
 
 ### Electronics & Computer Engineer | Embedded Systems | IoT | FPGA
 
-I'm an electronics and computer engineering professional based in **Ilmenau, Germany**, passionate about building things at the intersection of hardware and software — from low-level RTL design to full IoT systems.
+I'm an electronics and computer engineering professional based in **Chemnitz, Germany**, passionate about building things at the intersection of hardware and software — from low-level RTL design to full IoT systems.
 
 ---
 
